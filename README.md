@@ -1,7 +1,7 @@
 # Ozone and PM2.5 Scaper
 
 ## Intro
-Scrape air quality data from the CA Air Resources Board
+Scrape air quality data from the California Air Resources Board
 - Scrape ozone and PM2.5 (and all other measures) data from the AQMIS database
 - Organized by location and time: yearly/monthly/daily
 - Finds census info for these locations
