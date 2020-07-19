@@ -14,7 +14,10 @@ Demonstrates
 - Fluency in Python
 - Ability to create tools with meaningful impact
 
-## Demo
-See https://github.com/nathanjchan/ozone-pm25-scraper/tree/master/datasets for the datasets
+## Contents
+- Complete Ozone and PM2.5 by Month
+- Converting Monthly to Yearly
+- Getting Census for Ozone and PM2.5 Locations
 
+## Demo
 <img src="https://www.nathanjchan.com/images/ozone-pm25-scraper1.png" alt="ozone-pm25-scraper1"/>
