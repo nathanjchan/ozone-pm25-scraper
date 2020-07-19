@@ -13,3 +13,7 @@ Demonstrates
 - Proficiency in web scraping and text processing
 - Fluency in Python
 - Ability to create tools with meaningful impact
+
+## Demo
+See [https://github.com/nathanjchan/ozone-pm25-scraper/tree/master/datasets] for the datasets
+<img src="https://www.nathanjchan.com/images/ozone-pm25-scraper1.jpg" alt="ozone-pm25-scraper1"/>
