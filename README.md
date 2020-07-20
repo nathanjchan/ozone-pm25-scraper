@@ -20,4 +20,4 @@ Demonstrates
 - Getting Census for Ozone and PM2.5 Locations
 
 ## Demo
-<img src="https://nathanjchan.com/images/ozone-pm25-scraper1.png" alt="ozone-pm25-scraper1"/>
+<img src="http://nathanjchan.com/images/ozone-pm25-scraper1.png" alt="ozone-pm25-scraper1"/>
