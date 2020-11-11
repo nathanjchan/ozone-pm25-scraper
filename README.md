@@ -7,7 +7,7 @@ Scrape high-precision air quality data from the California Air Resources Board
 - Finds census information for these locations
 
 ## Purpose
-Completed under a research grant with the California Families Project
+Completed under a research grant with the California Families Project for researchers at the UC Davis Center for Mind and Brain
 
 Demonstrates
 - Proficiency in web scraping and text processing
