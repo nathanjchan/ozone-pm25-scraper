@@ -1,4 +1,4 @@
-# Ozone and PM2.5 Scaper
+# Ozone and PM2.5 Scraper
 
 ## Intro
 Scrape high-precision air quality data from the California Air Resources Board
